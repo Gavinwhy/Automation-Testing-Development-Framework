@@ -20,9 +20,11 @@ KDT - 关键字驱动测试(Keyword-Driven Testing)
 
 ## 持续集成
 
+Continuous-Integration - [CI](https://github.com/Gavinwhy/Continuous-Integration)
+
 ## 移动端测试
 
-[移动端应用测试](https://github.com/Gavinwhy/App-Test)
+移动端应用测试 - [APP-Test](https://github.com/Gavinwhy/App-Test)
 
 ## 测试类型
 
@@ -48,6 +50,10 @@ Performance 是否能够高效运行
 
 ### 接口测试
 
+[InterFace-Test](https://github.com/Gavinwhy/InterFace-Test)
+
 ### GUI自动化测试
+
+界面自动化 - [GUI](https://github.com/Gavinwhy/GUI-Test)
 
 开源项目练习
