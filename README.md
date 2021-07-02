@@ -4,7 +4,7 @@ KDT关键字,CBT组件等框架设计模型及驱动设计理念
 
 ## 接口测试自动化实践
 
-[【分享】像拼图一样完成接口自动化测试——动态测试框架设计的实践与探索 - 飞书文档](https://kqnehw82cb.feishu.cn/docs/doccnIESUEAeEvVwZ8xpUbb4Isc) 密码:Ip2a
+[【分享】像拼图一样完成接口自动化测试——动态测试框架设计的实践与探索 - 飞书文档](https://kqnehw82cb.feishu.cn/docs/doccn1vrnLHY85O2PVRFKsmnp9e) 密码:Ip2a
 
 ## 实践项目中的持续集成
 
